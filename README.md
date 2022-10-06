@@ -1,4 +1,6 @@
 # vim-help
+![Vim Logo](https://github.com/vim/vim/blob/master/runtime/vimlogo.gif)
+
 Common instruction for Vim
 
 Vi shortcuts
